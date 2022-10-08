@@ -1,8 +1,10 @@
 # 197-Hours-Korean-Speech-Data-by-Mobile-Phone_Reading
-https://www.datatang.ai/datasets/60
+
 
 ## Description
 It collects 291 Korean locals and is recorded in quiet indoor environment. The recordings include economics, entertainment, news, oral, figure, letter. 400 sentences for each speaker. Recording devices are mainstream Android phones and iPhones.
+
+For more details, please refer to the link: https://bit.ly/3UECwkv
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 5 noise symbols, special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
